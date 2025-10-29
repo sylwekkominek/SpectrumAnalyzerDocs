@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['of_20audioconfig_20py_0',['Overview of audioConfig.py',['../md_docs_2index.html#autotoc_md4',1,'']]],
+  ['of_20bars_3a_1',['Selecting frequencies / Number of bars:',['../md_docs_2index.html#autotoc_md29',1,'']]],
+  ['of_20config_20py_2',['Overview of config.py',['../md_docs_2index.html#autotoc_md10',1,'']]],
+  ['of_20falling_3',['Dynamic Max Hold speed of falling',['../md_docs_2index.html#autotoc_md36',1,'']]],
+  ['of_20samples_4',['Number of Samples',['../md_docs_2index.html#autotoc_md18',1,'']]],
+  ['of_20signals_20for_20averaging_3a_5',['Number of Signals for Averaging:',['../md_docs_2index.html#autotoc_md21',1,'']]],
+  ['of_20signals_20for_20max_20hold_3a_6',['Number of Signals for Max Hold:',['../md_docs_2index.html#autotoc_md22',1,'']]],
+  ['offset_7',['offset',['../glad_8h.html#a18d58060ee920e8c96efccc8e16a95f0',1,'glad.h']]],
+  ['offset_20factor_3a_8',['Offset factor:',['../md_docs_2index.html#autotoc_md26',1,'']]],
+  ['offsetfactor_9',['offsetFactor',['../structConfiguration.html#afa6c7a83ba42224473d4a3ab29585e17',1,'Configuration']]],
+  ['offsets_10',['offsets',['../glad_8h.html#a42c4f478b845c4293718119038d11730',1,'glad.h']]],
+  ['open_5fgl_11',['open_gl',['../glad_8c.html#a538b0e09de5780f026ad62462fade0a6',1,'glad.c']]],
+  ['opengl_12',['openGL',['../structWindowTestsBase.html#ae8457588dbfa3634efa94276ee02a295',1,'WindowTestsBase']]],
+  ['openglmock_13',['openglmock',['../classOpenGlMock.html#ab76e406d412ec809a694abe6c0d54044',1,'OpenGlMock::OpenGlMock()'],['../classOpenGlMock.html',1,'OpenGlMock']]],
+  ['openglmock_2ecpp_14',['OpenGlMock.cpp',['../OpenGlMock_8cpp.html',1,'']]],
+  ['openglmock_2ehpp_15',['OpenGlMock.hpp',['../OpenGlMock_8hpp.html',1,'']]],
+  ['operator_3c_3c_16',['operator&lt;&lt;',['../ConfigReader_8cpp.html#a586d289e8224118fe5f5467c4b815787',1,'operator&lt;&lt;(std::ostream &amp;os, const Configuration &amp;config):&#160;ConfigReader.cpp'],['../ConfigReader_8hpp.html#a586d289e8224118fe5f5467c4b815787',1,'operator&lt;&lt;(std::ostream &amp;os, const Configuration &amp;config):&#160;ConfigReader.cpp']]],
+  ['operator_3d_17',['operator=',['../classTextInsideGpu.html#ae1afae258e1909264cdda054637ffe1d',1,'TextInsideGpu::operator=()'],['../classAudioSamplesCollector.html#a16006fcd687f4a673338b6179c52c177',1,'AudioSamplesCollector::operator=(AudioSamplesCollector &amp;&amp;)=delete'],['../classAudioSamplesCollector.html#a9ef53f9c56c40c5970e3a4dc3ba5a3e0',1,'AudioSamplesCollector::operator=(const AudioSamplesCollector &amp;)=delete']]],
+  ['or_20windows_2011_20with_20wsl2_18',['For typical users: Ubuntu 24.04 or Windows 11 with WSL2.',['../index.html#autotoc_md65',1,'']]],
+  ['origtexture_19',['origtexture',['../glad_8h.html#a4080c53daa5448493093ca86747c2574',1,'glad.h']]],
+  ['outptr_20',['outPtr',['../classFFTCalculator.html#acae0f18869a64fb645cf528ed69c6c9f',1,'FFTCalculator']]],
+  ['overlapping_21',['overlapping',['../classWelchCalculator.html#aa9ef89190190cbb60444359b13d59ab1',1,'WelchCalculator']]],
+  ['overview_20of_20audioconfig_20py_22',['Overview of audioConfig.py',['../md_docs_2index.html#autotoc_md4',1,'']]],
+  ['overview_20of_20config_20py_23',['Overview of config.py',['../md_docs_2index.html#autotoc_md10',1,'']]]
+];

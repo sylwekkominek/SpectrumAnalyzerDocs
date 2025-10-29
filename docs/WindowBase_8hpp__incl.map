@@ -1,0 +1,20 @@
+<map id="core/WindowBase.hpp" name="core/WindowBase.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="280,5,447,31"/>
+<area shape="rect" id="Node000002" href="$ConfigReader_8hpp.html" title=" " alt="" coords="230,79,366,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="355,33,320,70,316,67,351,29"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="390,79,467,104"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="376,29,411,67,407,70,372,33"/>
+<area shape="rect" id="Node000003" href="$PythonCodeRunner_8hpp.html" title=" " alt="" coords="87,152,261,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="279,106,207,147,205,143,277,102"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="267,225,329,251"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="301,104,301,212,295,212,295,104"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="336,152,412,177"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="312,102,353,141,350,144,308,106"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,225,84,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="154,180,79,221,77,216,152,175"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="109,225,167,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="170,179,152,214,148,212,166,176"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="195,175,267,216,265,221,193,180"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="191,225,242,251"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="183,176,205,212,201,215,179,179"/>
+</map>

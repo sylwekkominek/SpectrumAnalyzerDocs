@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['b_0',['b',['../glad_8h.html#a6eba317e3cf44d6d26c04a5a8f197dcb',1,'glad.h']]],
+  ['background_1',['BACKGROUND',['../RectangleInsideGpu_8hpp.html#aa43fc92c55ec7c164c95cca65f44392da87ed58ce5596142e11cb65deb049bb4b',1,'RectangleInsideGpu.hpp']]],
+  ['backgroundcolorsettings_2',['backgroundColorSettings',['../structConfiguration.html#aef9acd29e5780cdf8d9ee57e3da67037',1,'Configuration']]],
+  ['backgroundinsidegpu_3',['backgroundInsideGpu',['../classWindow.html#a37d076362796f45a1f3c2a692173b57b',1,'Window']]],
+  ['bar_4',['BAR',['../RectangleInsideGpu_8hpp.html#aa43fc92c55ec7c164c95cca65f44392da3d75eec709b70a350e143492192a1736',1,'RectangleInsideGpu.hpp']]],
+  ['bars_3a_5',['Selecting frequencies / Number of bars:',['../md_docs_2index.html#autotoc_md29',1,'']]],
+  ['baseinstance_6',['baseinstance',['../glad_8h.html#a350cf093e1f028ec729839c9e7056f75',1,'glad.h']]],
+  ['basevertex_7',['basevertex',['../glad_8h.html#aa9e7849bcbafd76702a30eb2c0bc2333',1,'glad.h']]],
+  ['binary_8',['binary',['../glad_8h.html#a0ace813ee1f7020974174eb65d53ff0d',1,'glad.h']]],
+  ['binaryformat_9',['binaryFormat',['../glad_8h.html#acfd8d54d87b3ab89bda61905c33a5382',1,'glad.h']]],
+  ['bindingindex_10',['bindingindex',['../glad_8h.html#ac2f2eabcb397aef87fe62fdca6b80e55',1,'glad.h']]],
+  ['blue_11',['blue',['../glad_8h.html#ab4fcc6ff520ae4d9de259c8468a5cd93',1,'glad.h']]],
+  ['border_12',['border',['../glad_8h.html#aea5eac1bb7113f5ad5d7c4abb17a8038',1,'glad.h']]],
+  ['bottom_13',['bottom',['../glad_8h.html#abb624ded9ef662ce48c0c0ff27d35aaf',1,'glad.h']]],
+  ['boundaryloc_14',['boundaryLoc',['../classRectangleInsideGpu.html#ad1f1fa6ddcc6eb3f05c9bb5baa3e8707',1,'RectangleInsideGpu']]],
+  ['buf_15',['buf',['../glad_8h.html#a5d24de6b2c5970e2458e5aeb80907dfe',1,'glad.h']]],
+  ['buffer_16',['buffer',['../classAudioSamplesCollector.html#adbff7b32252b85cadf19867d7475dae0',1,'AudioSamplesCollector::buffer'],['../glad_8h.html#a3667f558219c90437106b544a3ca00b8',1,'buffer:&#160;glad.h']]],
+  ['bufferindex_17',['bufferIndex',['../glad_8h.html#a9ccbd4e5c2851a7870f0f335e25f1b72',1,'glad.h']]],
+  ['buffermode_18',['bufferMode',['../glad_8h.html#af61376d43b79f3241f0cb5cba9b60b39',1,'glad.h']]],
+  ['buffers_19',['buffers',['../glad_8h.html#af545b4458d07f53f6ffebc73b38814cb',1,'glad.h']]],
+  ['bufforwithdatatobeconverted_20',['bufforWithDataToBeConverted',['../classWelchCalculator.html#a5d1ac11ff98494bd76af2e589b75c15d',1,'WelchCalculator']]],
+  ['bufs_21',['bufs',['../glad_8h.html#a5b84408f2148e494d469b56711ede567',1,'glad.h']]],
+  ['bufsize_22',['bufSize',['../glad_8h.html#a89fb17e7e87ce420af9c19f8cc417b22',1,'glad.h']]]
+];

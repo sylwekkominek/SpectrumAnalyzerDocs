@@ -1,0 +1,15 @@
+<map id="WindowTestsBase" name="WindowTestsBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="180,256,319,281"/>
+<area shape="rect" id="Node000002" href="$classTextInsideGpuMock.html" title=" " alt="" coords="5,168,155,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,197,228,253,225,258,114,202"/>
+<area shape="rect" id="Node000003" href="$classTextInsideGpu.html" title=" " alt="" coords="23,93,137,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,133,83,168,77,168,77,133"/>
+<area shape="rect" id="Node000004" href="$classWindowBaseMock.html" title=" " alt="" coords="179,168,320,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,207,252,255,247,255,247,207"/>
+<area shape="rect" id="Node000005" href="$classWindowBase.html" title=" " alt="" coords="196,93,303,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="252,133,252,168,247,168,247,133"/>
+<area shape="rect" id="Node000006" href="$structConfiguration.html" title=" " alt="" coords="195,5,304,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="252,45,252,93,247,93,247,45"/>
+<area shape="rect" id="Node000007" href="$classOpenGlMock.html" title=" " alt="" coords="345,168,450,193"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="379,206,343,234,289,258,287,253,340,230,375,201"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="tests/helpers/WindowBaseMock.hpp" name="tests/helpers/WindowBaseMock.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="351,5,546,45"/>
+<area shape="rect" id="Node000002" href="$WindowBase_8hpp.html" title=" " alt="" coords="280,93,447,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,48,388,86,384,82,426,44"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="471,93,597,119"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="471,44,513,82,509,86,468,48"/>
+<area shape="rect" id="Node000003" href="$ConfigReader_8hpp.html" title=" " alt="" coords="230,167,366,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,121,320,158,316,155,351,117"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="390,167,467,192"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="376,117,411,155,407,158,372,121"/>
+<area shape="rect" id="Node000004" href="$PythonCodeRunner_8hpp.html" title=" " alt="" coords="87,240,261,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="279,194,207,235,205,231,277,190"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="267,313,329,339"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="301,192,301,300,295,300,295,192"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="336,240,412,265"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="312,190,353,229,350,232,308,194"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,313,84,339"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="154,268,79,309,77,304,152,263"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="109,313,167,339"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="170,267,152,302,148,300,166,264"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="195,263,267,304,265,309,193,268"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="191,313,242,339"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="183,264,205,300,201,303,179,267"/>
+</map>

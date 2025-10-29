@@ -1,0 +1,9 @@
+<map id="AudioSpectrumAnalyzer" name="AudioSpectrumAnalyzer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,45,405,70"/>
+<area shape="rect" id="Node000003" href="$classAudioSpectrumAnalyzerTests2_1_1ModifiedAudioSpectrumAnalyzer.html" title=" " alt="" coords="453,5,696,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="419,42,453,38,453,43,419,47"/>
+<area shape="rect" id="Node000004" href="$classAudioSpectrumAnalyzerTests_1_1ModifiedAudioSpectrumAnalyzer.html" title=" " alt="" coords="453,69,696,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="419,67,453,72,453,77,419,73"/>
+<area shape="rect" id="Node000002" href="$classSpectrumAnalyzerBase.html" title=" " alt="" coords="5,45,179,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,55,226,55,226,60,193,60"/>
+</map>

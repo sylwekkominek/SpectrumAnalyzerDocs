@@ -1,0 +1,13 @@
+<map id="AudioSpectrumAnalyzer" name="AudioSpectrumAnalyzer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="661,97,840,123"/>
+<area shape="rect" id="Node000002" href="$classSpectrumAnalyzerBase.html" title=" " alt="" coords="439,97,612,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="626,107,661,107,661,113,626,113"/>
+<area shape="rect" id="Node000003" href="$structConfiguration.html" title=" " alt="" coords="55,5,164,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,16,290,26,354,36,415,51,465,72,506,95,503,100,463,77,414,57,352,41,290,31,177,22"/>
+<area shape="rect" id="Node000004" href="$classDataExchanger.html" title=" " alt="" coords="22,57,197,97"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="211,82,439,100,438,106,210,87"/>
+<area shape="rect" id="Node000005" href="$classDataExchanger.html" title=" " alt="" coords="5,121,213,161"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="227,132,414,119,438,117,438,122,415,125,227,138"/>
+<area shape="rect" id="Node000006" href="$classDataExchanger.html" title=" " alt="" coords="19,185,199,211"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="213,187,311,175,414,153,459,137,498,120,500,125,461,142,415,158,312,180,214,193"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="33,203,134,228"/>
+<area shape="rect" id="Node000001" href="$classAudioSpectrumAnalyzerTests.html" title=" " alt="" coords="213,5,424,31"/>
+<area shape="poly" id="edge14_Node000000_Node000001" title=" " alt="" coords="101,190,159,114,171,92,179,74,189,57,208,40,229,29,232,33,211,44,194,60,184,76,176,95,164,117,105,194"/>
+<area shape="rect" id="Node000003" href="$classAudioSpectrumAnalyzerTests2.html" title=" " alt="" coords="209,104,428,129"/>
+<area shape="poly" id="edge15_Node000000_Node000003" title=" " alt="" coords="111,193,156,164,208,138,244,127,246,132,210,143,158,169,114,197"/>
+<area shape="rect" id="Node000006" href="$classConfigReaderTests.html" title=" " alt="" coords="247,252,390,277"/>
+<area shape="poly" id="edge16_Node000000_Node000006" title=" " alt="" coords="148,226,258,249,257,255,147,231"/>
+<area shape="rect" id="Node000008" href="$classDataCalculatorTest.html" title=" " alt="" coords="246,301,391,327"/>
+<area shape="poly" id="edge17_Node000000_Node000008" title=" " alt="" coords="115,234,159,261,210,286,250,299,248,304,208,291,156,266,112,238"/>
+<area shape="rect" id="Node000010" href="$classFFTCalculatorTestBase.html" title=" " alt="" coords="235,400,403,425"/>
+<area shape="poly" id="edge18_Node000000_Node000010" title=" " alt="" coords="114,235,139,259,164,287,178,315,184,341,192,363,211,385,235,399,233,404,208,389,187,366,179,342,173,317,159,290,135,263,110,239"/>
+<area shape="rect" id="Node000014" href="$classIndexSelectorTests.html" title=" " alt="" coords="247,203,391,228"/>
+<area shape="poly" id="edge21_Node000000_Node000014" title=" " alt="" coords="148,213,246,213,246,218,148,218"/>
+<area shape="rect" id="Node000009" href="$classSamplesCollectorTests.html" title=" " alt="" coords="234,351,403,376"/>
+<area shape="poly" id="edge22_Node000000_Node000009" title=" " alt="" coords="110,236,163,287,186,314,195,325,211,336,240,348,238,353,208,340,192,329,181,318,159,290,107,240"/>
+<area shape="rect" id="Node000015" href="$classStatsTests.html" title=" " alt="" coords="275,153,363,179"/>
+<area shape="poly" id="edge23_Node000000_Node000015" title=" " alt="" coords="147,199,274,173,275,178,148,205"/>
+<area shape="rect" id="Node000005" href="$structWindowTests.html" title=" " alt="" coords="265,55,372,80"/>
+<area shape="poly" id="edge24_Node000000_Node000005" title=" " alt="" coords="100,190,145,138,175,111,208,89,236,77,265,70,266,75,238,82,211,94,178,116,148,142,104,193"/>
+<area shape="rect" id="Node000011" href="$classFFTCalculatorTest.html" title=" " alt="" coords="485,375,621,400"/>
+<area shape="poly" id="edge19_Node000010_Node000011" title=" " alt="" coords="416,399,484,392,485,397,417,405"/>
+<area shape="rect" id="Node000012" href="$classWelchCalculatorTest.html" title=" " alt="" coords="476,424,629,449"/>
+<area shape="poly" id="edge20_Node000010_Node000012" title=" " alt="" coords="417,420,476,426,476,432,416,425"/>
+<area shape="rect" id="Node000002" href="$structValuesChecker.html" title=" " alt="" coords="5,5,161,31"/>
+<area shape="poly" id="edge25_Node000002_Node000001" title=" " alt="" coords="175,15,213,15,213,21,175,21"/>
+<area shape="rect" id="Node000013" href="$structValuesChecker.html" title=" " alt="" coords="5,400,161,425"/>
+<area shape="poly" id="edge26_Node000013_Node000010" title=" " alt="" coords="175,410,235,410,235,415,175,415"/>
+<area shape="rect" id="Node000007" href="$structValuesChecker.html" title=" " alt="" coords="5,301,161,327"/>
+<area shape="poly" id="edge27_Node000007_Node000006" title=" " alt="" coords="157,296,257,275,258,280,158,301"/>
+<area shape="poly" id="edge28_Node000007_Node000008" title=" " alt="" coords="175,311,246,311,246,317,175,317"/>
+<area shape="poly" id="edge29_Node000007_Node000009" title=" " alt="" coords="158,327,258,348,257,353,157,332"/>
+<area shape="rect" id="Node000004" href="$structWindowTestsBase.html" title=" " alt="" coords="14,79,153,104"/>
+<area shape="poly" id="edge30_Node000004_Node000003" title=" " alt="" coords="167,98,209,102,209,108,166,103"/>
+<area shape="poly" id="edge31_Node000004_Node000005" title=" " alt="" coords="166,80,265,70,265,75,167,86"/>
+</map>

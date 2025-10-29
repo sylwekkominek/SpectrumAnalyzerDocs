@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['data_0',['data',['../classDataCalculatorBase.html#a2c54c588f5c7ddbaaae09b7f574c1f3e',1,'DataCalculatorBase']]],
+  ['dataaverager_1',['dataAverager',['../classWindow.html#ad9540511878af3b1d8272134563b8446',1,'Window']]],
+  ['dataexchanger_2',['dataExchanger',['../classSpectrumAnalyzerBase.html#a7d37025308e421dc5a2697d3a52f79bc',1,'SpectrumAnalyzerBase']]],
+  ['datalength_3',['dataLength',['../classSamplesCollectorBase.html#ad193ca971721178a6e7d7515ba003ff3',1,'SamplesCollectorBase']]],
+  ['dataqueue_4',['dataQueue',['../classDataCalculatorBase.html#aa1f8f7e59744d24829f9178b55fb8722',1,'DataCalculatorBase']]],
+  ['defaultfullscreenstate_5',['defaultfullscreenstate',['../structConfiguration.html#a4c4d504a0f278e065c7d51f412c62f09',1,'Configuration::defaultFullscreenState'],['../structWindowTests.html#a9c143302076b6b1e91eb96972aa7ea58',1,'WindowTests::defaultFullscreenState']]],
+  ['desiredframerate_6',['desiredFrameRate',['../structConfiguration.html#a45ea0d3090f4bf2a2bf989dfc8b40d0b',1,'Configuration']]],
+  ['device_7',['device',['../classAudioSamplesCollector.html#a8c316424b96283479657c0d85be94b58',1,'AudioSamplesCollector']]],
+  ['draw2function_8',['draw2Function',['../TextInsideGpuMock_8cpp.html#a9e09a008796bff62ff3b61f224147191',1,'TextInsideGpuMock.cpp']]],
+  ['drawfunction_9',['drawFunction',['../TextInsideGpuMock_8cpp.html#a59aa0c63a67307c48756b35739604245',1,'TextInsideGpuMock.cpp']]],
+  ['dynamicmaxholdaccelerationstateoffalling_10',['dynamicMaxHoldAccelerationStateOfFalling',['../structConfiguration.html#ae41b7a3ba69b81b7b269d8c8a160017c',1,'Configuration']]],
+  ['dynamicmaxholdrectangleheightinpercentofscreensize_11',['dynamicMaxHoldRectangleHeightInPercentOfScreenSize',['../structConfiguration.html#ac7a83e8012868936af72565c950bbae4',1,'Configuration']]],
+  ['dynamicmaxholdrectanglesinsidegpu_12',['dynamicMaxHoldRectanglesInsideGpu',['../classWindow.html#a16cb0cc95826d00c1ac5acd43baa30e7',1,'Window']]],
+  ['dynamicmaxholdspeedoffalling_13',['dynamicMaxHoldSpeedOfFalling',['../structConfiguration.html#a8b05bb51ee3b9f568327424e84ea8bf9',1,'Configuration']]],
+  ['dynamicmaxholdvalues_14',['dynamicMaxHoldValues',['../classWindow.html#a2140e592e117bc901e694c980f8c98f5',1,'Window']]],
+  ['dynamicmaxholdvisibilitystate_15',['dynamicMaxHoldVisibilityState',['../structConfiguration.html#a84714b5722e900505281bf4a5c550f92',1,'Configuration']]]
+];

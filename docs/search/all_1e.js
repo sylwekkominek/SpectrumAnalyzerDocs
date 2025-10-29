@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['ubuntu_2024_2004_20or_20windows_2011_20with_20wsl2_0',['For typical users: Ubuntu 24.04 or Windows 11 with WSL2.',['../index.html#autotoc_md65',1,'']]],
+  ['uniformblockbinding_1',['uniformBlockBinding',['../glad_8h.html#ac15d8775053e517f7961f1fbc8e41e9b',1,'glad.h']]],
+  ['uniformblockindex_2',['uniformBlockIndex',['../glad_8h.html#adc30abe82647bc0cb76d2e37147524ba',1,'glad.h']]],
+  ['uniformblockname_3',['uniformBlockName',['../glad_8h.html#a135be84cdb9422534a079f241afacfe9',1,'glad.h']]],
+  ['uniformcount_4',['uniformCount',['../glad_8h.html#a1569175aef85efe8908df08118f1a22b',1,'glad.h']]],
+  ['uniformindex_5',['uniformIndex',['../glad_8h.html#a920771c8e6c5f3c8d831f248650b8b54',1,'glad.h']]],
+  ['uniformindices_6',['uniformIndices',['../glad_8h.html#a86e9db566123a4bbc7040edb52b6879b',1,'glad.h']]],
+  ['uniformname_7',['uniformName',['../glad_8h.html#a32334347b3f569b7c8a44a78f2e4482c',1,'glad.h']]],
+  ['uniformnames_8',['uniformNames',['../glad_8h.html#afe0812aefec2c73b39be63d240a6a6d1',1,'glad.h']]],
+  ['units_9',['units',['../glad_8h.html#abfa9efe7c13ea1f8f0756f7d74b32958',1,'glad.h']]],
+  ['update_10',['update',['../classStatsManager.html#ab1c8553176f87738fe64c3708812f3a2',1,'StatsManager::update()'],['../classStats.html#aa7e9b0e5a49493718b0d0913f5d26e93',1,'Stats::update()']]],
+  ['updatealgorithm_11',['updatealgorithm',['../classDataSmoother.html#a473d4c040fabc16b6eba18f394c8c0a2',1,'DataSmoother::updateAlgorithm()'],['../classDataMaxHolder.html#a39c765f44d16cc9e6a5169a219d54c7f',1,'DataMaxHolder::updateAlgorithm()'],['../classDataAverager.html#aba9571099e3b070e6fa3580a1ba79d33',1,'DataAverager::updateAlgorithm()'],['../classDataCalculatorBase.html#aaad24e29a96b3022a5ea157dfbfdb0f0',1,'DataCalculatorBase::updateAlgorithm()']]],
+  ['updateboundary_12',['updateBoundary',['../classRectangleInsideGpu.html#a83dad0304fe9135bf176338635ccac0e',1,'RectangleInsideGpu']]],
+  ['updatebuffer_13',['updatebuffer',['../classWelchCalculator.html#a94f1fe8cd1e93cd69c8fd73e104ee56d',1,'WelchCalculator::updateBuffer()'],['../classAudioSamplesCollector.html#aa3f287e4c707752c69207c867a06f88c',1,'AudioSamplesCollector::updateBuffer()']]],
+  ['updatecurrentwindowsize_14',['updateCurrentWindowSize',['../classWindowBase_1_1WindowBaseImpl.html#a53bf72e15165ea12d619c0a45cbcccfc',1,'WindowBase::WindowBaseImpl']]],
+  ['updateindexes_15',['updateIndexes',['../classIndexSelector.html#a6be82341ca3da44377e188e5c58d0dbb',1,'IndexSelector']]],
+  ['updatemapofpointerstopythonfunctions_16',['updateMapOfPointersToPythonFunctions',['../classPythonCodeRunner.html#a86d89999a72937f2b4c648db61b81740',1,'PythonCodeRunner']]],
+  ['updateoverlapping_17',['updateOverlapping',['../classWelchCalculator.html#a1cbcdd1ef73fb55cd849c0ac975bf377',1,'WelchCalculator']]],
+  ['updatetime_18',['updateTime',['../classRectangleInsideGpu.html#af808ed89b5e99d289d75da6d6958c460',1,'RectangleInsideGpu']]],
+  ['usage_19',['usage',['../glad_8h.html#afb85c5d9b1bce96aa3b530d581194d1a',1,'glad.h']]],
+  ['userparam_20',['userParam',['../glad_8h.html#a54b28c4e7bc74cc2b844bf5ebfc42dfe',1,'glad.h']]],
+  ['users_3a_21',['For advanced users:',['../index.html#autotoc_md69',1,'']]],
+  ['users_3a_20ubuntu_2024_2004_20or_20windows_2011_20with_20wsl2_22',['For typical users: Ubuntu 24.04 or Windows 11 with WSL2.',['../index.html#autotoc_md65',1,'']]],
+  ['users_3a_20windows_23',['For typical users: Windows',['../index.html#autotoc_md67',1,'']]]
+];

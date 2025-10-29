@@ -1,0 +1,23 @@
+<map id="tests/StatsTests.cpp" name="tests/StatsTests.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="368,5,519,31"/>
+<area shape="rect" id="Node000002" href="$Stats_8hpp.html" title=" " alt="" coords="199,79,314,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="414,33,301,76,299,71,412,28"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="338,79,442,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="437,33,409,69,405,66,432,29"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="467,79,529,104"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="454,29,483,66,479,69,450,33"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="554,79,618,104"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="467,28,552,70,549,75,465,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,68,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,107,82,152,80,146,221,101"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="93,152,157,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="237,106,159,148,157,143,234,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="181,152,247,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="252,106,230,142,226,139,247,103"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="271,152,330,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="266,103,289,139,284,142,262,106"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="354,152,405,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="278,102,349,143,346,147,275,106"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="429,152,506,177"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="291,101,421,145,420,150,290,107"/>
+</map>

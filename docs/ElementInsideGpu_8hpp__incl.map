@@ -1,0 +1,13 @@
+<map id="core/gpu/ElementInsideGpu.hpp" name="core/gpu/ElementInsideGpu.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="63,5,293,31"/>
+<area shape="rect" id="Node000002" href="$glad_8h.html" title=" " alt="" coords="29,79,124,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,33,106,73,103,68,160,28"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="149,79,207,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="181,31,181,65,175,65,175,31"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="232,79,295,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="193,29,241,68,237,72,190,33"/>
+<area shape="rect" id="Node000003" href="$khrplatform_8h.html" title=" " alt="" coords="5,152,148,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,104,79,138,74,138,74,104"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="41,225,112,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="79,178,79,212,74,212,74,178"/>
+</map>
